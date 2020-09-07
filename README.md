@@ -14,6 +14,10 @@ This is the second project in the Microverse Rails technical curriculum.
 - Ruby,
 - ActiveRecord
 
+## Intall Ruby on Rails
+To install it follow the steps in the [link](https://guides.rubyonrails.org/getting_started.html)
+
+
 ## Setup
 
 Clone the [repository URL](https://github.com/mateomh/micro-reddit.git), get into the project root folder and run the migrations for the database
@@ -31,11 +35,11 @@ And then use the rails console for the project to run the tests using the comman
 - Twitter: [@mateo_m_h](https://twitter.com/mateo_m_h)
 - Linkedin: [Mateo mojica](https://linkedin.com/mateo_mojica_hernandez)
 
-👤 **Author2**
+👤 **José Pedraza**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@pastorp3](https://github.com/pastorp3)
+- Twitter: [@jose_pastor](https://twitter.com/jose_pastorp3 )
+- Linkedin: [linkedin](https://www.linkedin.com/in/jos%C3%A9-pedraza-acevedo-ab700a1a9/)
 
 ## 🤝 Contributing
 
@@ -51,6 +55,8 @@ Give a ⭐️ if you like this project!
 
 - Hat tip to anyone whose code was used
 - Inspiration
+- Microverse
+- Odin Project
 - etc
 
 ## 📝 License
